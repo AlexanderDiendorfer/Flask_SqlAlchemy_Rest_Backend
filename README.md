@@ -3,4 +3,4 @@ A complete CRUD Backend using Flask, SQLAlchemy and Marshmallow for Serilization
 
 ## Test it with Postman:
 ![alt "Testing with Postman](images/Post_Body.png "Testing with Postman")
-![alt "Testing with Postman](images/Post_Headers.ppng "Testing with Postman")
+![alt "Testing with Postman](images/Post_Headers.png "Testing with Postman")
